@@ -2,7 +2,7 @@ Building Pipeline:
 1> Create a GitHub repo and clone it in local (Add experiments).{To create github repo.github->repository->new.After creating then code the code HTTPS and in your powerdhell or command line write git clone httpscode(paste the code).Then open the folder in vscode.}
 2> Add src folder along with all components(run them individually).
 3> Add data, models, reports directories to .gitignore file
-4> Now git add, commit, push(git add .,git commit -m "string",git push origin main)
+4> Now git add, commit, push{git add .,git commit -m "string",git push origin main}
 
 Setting up dcv pipeline (without params)
 5> Create dvc.yaml file and add stages to it.
